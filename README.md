@@ -3,9 +3,9 @@
 ## What is this?
 
 A big pile of JSON that you can use to generate test cases for breaking on
-grapheme cluster boundaries.
+[grapheme cluster boundaries](http://www.unicode.org/reports/tr29/#Grapheme_Cluster_Boundaries).
 
-A description of the files follows:
+A description of each files follows.
 
 ### grapheme-break-tests.txt
 
